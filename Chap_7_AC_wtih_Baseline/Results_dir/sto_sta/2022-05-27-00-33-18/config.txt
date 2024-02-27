@@ -1,0 +1,1 @@
+Namespace(actor_lr_schedule=[0.0005, 2000, 1e-06], baseline=False, batch_size=256, critic_lr_schedule=[0.0005, 2000, 1e-06], gamma=0.97, iter_num=2000, lr_a=0.0005, lr_c=0.0005, mb_num=4, norm=True, seed=0, smoothing=False, step_limit=128)

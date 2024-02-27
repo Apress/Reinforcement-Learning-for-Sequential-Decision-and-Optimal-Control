@@ -1,0 +1,1 @@
+Namespace(baseline=True, batch_size=256, gamma=0.97, iter_num=2000, lr_a=0.004, lr_c=0.004, norm=True, seed=17, smoothing=False, step_limit=128)

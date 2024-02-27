@@ -1,0 +1,4 @@
+algorithm: actor_critc
+lr_a:0.0001 
+lr_c:0.0001 
+iter_num:2000 
