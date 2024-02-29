@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+dependencies:
+  - casadi=3.6.3=py39hc9cacc4_3
+  - libprotobuf=3.21.12=hfc55251_2
+  - matplotlib=3.5.3=py39hf3d152e_2
+  - numba=0.58.1=py39h615d6bd_0
+  - numpy=1.26.2=py39h474f0d3_0
+  - pandas=2.1.4=py39hddac248_0
+  - python=3.9.18=h0755675_0_cpython
+  - pytorch-cpu=1.13.1=cpu_py39hdb170b5_1
+  - pytorch-lightning=2.1.2=pyhd8ed1ab_0
+  - scipy=1.11.4=py39h474f0d3_0
+  - tensorboard=2.15.1=pyhd8ed1ab_0
+  - tqdm=4.66.1=pyhd8ed1ab_0
+  - pip:
+      - gym==0.23.0
